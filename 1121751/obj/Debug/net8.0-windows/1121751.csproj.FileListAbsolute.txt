@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\1121751C#\1121751\bin\Debug\net8.0-windows\1121751.exe
+C:\Users\user\Desktop\1121751C#\1121751\bin\Debug\net8.0-windows\1121751.deps.json
+C:\Users\user\Desktop\1121751C#\1121751\bin\Debug\net8.0-windows\1121751.runtimeconfig.json
+C:\Users\user\Desktop\1121751C#\1121751\bin\Debug\net8.0-windows\1121751.dll
+C:\Users\user\Desktop\1121751C#\1121751\bin\Debug\net8.0-windows\1121751.pdb
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\_1121751.Form1.resources
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.csproj.GenerateResource.cache
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.AssemblyInfo.cs
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.dll
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\refint\1121751.dll
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.pdb
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\1121751.genruntimeconfig.cache
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\ref\1121751.dll
+C:\Users\user\Desktop\1121751C#\1121751\obj\Debug\net8.0-windows\_1121751.Properties.Resources.resources
